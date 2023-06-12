@@ -5,6 +5,7 @@
 }
 .gridimagens{
     width: 250px;
+    height: 250px;
 }
 .todasimagens{
     display: grid;
